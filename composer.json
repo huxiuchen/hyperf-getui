@@ -1,12 +1,12 @@
 {
-    "name": "getuilaboratory/getui-pushapi-php-client",
+    "name": "huxiuchen/hyperf-getui",
     "description": "getui php client",
     "keywords": ["getui", "getuilaboratory", "getui-pushapi-php-client", "pushapi"],
     "homepage": "https://www.getui.com/cn/",
     "license": "MIT",
     "authors": [
         {
-        "name": "getui",
+        "name": "hfcesar",
         "homepage": "https://www.getui.com/cn"
         }
     ],
